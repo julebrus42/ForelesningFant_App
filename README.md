@@ -1,1 +1,2 @@
-# ForelesningFant_App
+# FantApp
+Application of Fant
